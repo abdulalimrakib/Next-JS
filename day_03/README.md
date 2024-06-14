@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Learning information 
+In this section we learn about routing system in Next js like
+- routing
+- nested routing
+- dynamic routes --> dynamic ID will be in third bracket `[]`
+- nested dynamic routes
+- private folders --> folder name will be start with `_`
+- route group --> foulder name will be in parenthesis `()`
+- custom not - found page --> file name must be `not-fiund.tsx/jsx` in `app` folder
+- file colocation --> all file will be in `components` folder 
+  
+
+
